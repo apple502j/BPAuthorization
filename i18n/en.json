@@ -1,0 +1,8 @@
+{
+  "bpauthorization-desc": "Use bot passwords on Authorization header.",
+  "bpauthorization-provider": "BotPassword",
+  "bpauthorization-username-unknown": "The user does not exist.",
+  "bpauthorization-appid-unknown": "The bot name is not registered.",
+  "bpauthorization-token-nomatch": "Bot passwords do not match.",
+  "bpauthorization-restricted": "You are not allowed to use this bot password."
+}

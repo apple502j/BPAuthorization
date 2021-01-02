@@ -1,0 +1,23 @@
+{
+	"name": "BotPassword Authorization",
+	"descriptionmsg": "bpauthorization-desc",
+	"author": ["apple502j"],
+	"type": "api",
+	"url": "https://github.com/InternationalScratchWiki/BPAuthorization",
+	"version": "0.1",
+	"license-name": "GPL-2.0-or-later",
+	"MessagesDirs": {
+		"BPAuthorization": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"BPAuthorizationSessionProvider": "src/BPAuthorizationSessionProvider.php"
+	},
+	"SessionProviders": {
+		"BPAuthorizationSessionProvider": {
+			"class": "BPAuthorizationSessionProvider"
+		}
+	},
+  "manifest_version": 2
+}
