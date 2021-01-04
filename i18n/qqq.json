@@ -1,0 +1,8 @@
+{
+  "bpauthorization-desc": "Description of the extension",
+  "bpauthorization-provider": "Name of the session provider",
+  "bpauthorization-username-unknown": "Error shown when the user does not exist",
+  "bpauthorization-appid-unknown": "Error shown when the bot with the given bot name does not exist",
+  "bpauthorization-token-nomatch": "Error shown when the tokens don't match",
+  "bpauthorization-restricted": "Error when the use of the bot password is restricted"
+}
